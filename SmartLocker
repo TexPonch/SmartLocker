@@ -1,1 +1,7 @@
 ## Machine learning on python for ras pi to use facial recognition to unlock
+### to do
+#1) motion sensor
+#2) turn on relay (lights)
+#3) facial recognition
+#4) (if pass) unlock / (if fail) take video (30sec) and emial
+#5)  after 5min no motion locker locks and turns off lights
